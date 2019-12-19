@@ -1,0 +1,36 @@
+2019-12-19 17:32:01,585 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-19 17:32:09,850 common_fun.py[line:18] INFO no cancelBtn
+2019-12-19 17:32:09,850 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-19 17:32:09,916 loginView.py[line:23] INFO ============login_action==============
+2019-12-19 17:32:09,930 loginView.py[line:24] INFO username is:自学网2018
+2019-12-19 17:32:12,025 loginView.py[line:27] INFO password is:zxw2018
+2019-12-19 17:32:13,092 loginView.py[line:30] INFO click loginBtn
+2019-12-19 17:32:14,100 loginView.py[line:32] INFO login finished!
+2019-12-19 17:32:14,100 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-19 17:32:14,100 common_fun.py[line:57] INFO ====check_market_ad====
+2019-12-19 17:32:22,270 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-19 17:32:38,385 loginView.py[line:53] ERROR login fail
+2019-12-19 17:32:38,385 common_fun.py[line:52] INFO get login fail screenshot
+2019-12-19 17:34:23,322 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-19 17:34:23,650 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-19 17:34:24,404 loginView.py[line:23] INFO ============login_action==============
+2019-12-19 17:34:24,404 loginView.py[line:24] INFO username is:自学网2018
+2019-12-19 17:34:25,387 loginView.py[line:27] INFO password is:zxw2018
+2019-12-19 17:34:26,518 loginView.py[line:30] INFO click loginBtn
+2019-12-19 17:34:27,064 loginView.py[line:32] INFO login finished!
+2019-12-19 17:34:27,064 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-19 17:34:27,064 common_fun.py[line:57] INFO ====check_market_ad====
+2019-12-19 17:34:35,646 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-19 17:34:44,333 loginView.py[line:57] INFO login success!
+2019-12-19 17:36:12,548 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-19 17:36:12,718 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-19 17:36:13,497 loginView.py[line:23] INFO ============login_action==============
+2019-12-19 17:36:13,498 loginView.py[line:24] INFO username is:自学网2018
+2019-12-19 17:36:14,993 loginView.py[line:27] INFO password is:zxw2018
+2019-12-19 17:36:16,248 loginView.py[line:30] INFO click loginBtn
+2019-12-19 17:36:17,111 loginView.py[line:32] INFO login finished!
+2019-12-19 17:36:17,111 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-19 17:36:17,111 common_fun.py[line:57] INFO ====check_market_ad====
+2019-12-19 17:36:25,168 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-19 17:36:33,437 loginView.py[line:57] INFO login success!
+2019-12-19 17:36:33,437 loginView.py[line:63] INFO =====logout_action======

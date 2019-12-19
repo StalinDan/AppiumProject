@@ -1,0 +1,7 @@
+2019-12-19 15:00:41,154 common_fun.py[line:13] INFO ==========check_cancelBtn=========
+2019-12-19 15:00:49,550 common_fun.py[line:17] INFO no cancelBtn
+2019-12-19 15:00:49,550 common_fun.py[line:37] INFO swipe left
+2019-12-19 15:02:58,281 common_fun.py[line:13] INFO ==========check_cancelBtn=========
+2019-12-19 15:03:06,443 common_fun.py[line:17] INFO no cancelBtn
+2019-12-19 15:03:06,443 common_fun.py[line:37] INFO swipe left
+2019-12-19 15:03:07,744 common_fun.py[line:51] INFO get start App screenshot

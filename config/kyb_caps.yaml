@@ -1,0 +1,12 @@
+platformName: Android
+platformVersion: 7.0
+deviceName: JLF4T18601002720
+app: '/Users/danish/PycharmProjects/kyb_testProject/app//kaoyan3.1.0.apk'
+appname: 'kaoyan3.1.0.apk'
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+ip: 127.0.0.1
+port: 4723
