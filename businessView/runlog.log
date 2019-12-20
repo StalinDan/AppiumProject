@@ -34,3 +34,188 @@
 2019-12-19 17:36:25,168 loginView.py[line:35] INFO =====check_account_alert====
 2019-12-19 17:36:33,437 loginView.py[line:57] INFO login success!
 2019-12-19 17:36:33,437 loginView.py[line:63] INFO =====logout_action======
+2019-12-20 10:34:34,029 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 10:34:34,345 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 10:34:35,103 registerView.py[line:42] INFO ========register_action=========
+2019-12-20 10:34:36,098 registerView.py[line:46] INFO set userhead
+2019-12-20 10:47:37,651 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 10:47:37,757 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 10:47:38,525 registerView.py[line:43] INFO ========register_action=========
+2019-12-20 10:47:39,498 registerView.py[line:47] INFO set userhead
+2019-12-20 10:50:23,329 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 10:50:23,550 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 10:50:24,304 registerView.py[line:43] INFO ========register_action=========
+2019-12-20 10:50:25,254 registerView.py[line:47] INFO set userhead
+2019-12-20 10:52:00,142 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 10:52:00,274 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 10:52:01,043 registerView.py[line:43] INFO ========register_action=========
+2019-12-20 10:52:01,994 registerView.py[line:47] INFO set userhead
+2019-12-20 10:52:06,895 registerView.py[line:52] INFO username is zxw2018fly2662
+2019-12-20 10:52:07,832 registerView.py[line:55] INFO password is zxw20188162
+2019-12-20 10:52:08,990 registerView.py[line:58] INFO email is 51zxw7401@163.com
+2019-12-20 10:52:18,270 registerView.py[line:66] ERROR register fail
+2019-12-20 10:52:18,271 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 13:31:32,821 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 13:31:33,076 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 13:31:33,836 registerView.py[line:43] INFO ========register_action=========
+2019-12-20 13:31:34,772 registerView.py[line:47] INFO set userhead
+2019-12-20 13:31:38,965 registerView.py[line:52] INFO username is zxw2018fly4395
+2019-12-20 13:31:40,382 registerView.py[line:55] INFO password is zxw20186744
+2019-12-20 13:31:41,563 registerView.py[line:58] INFO email is 51zxw1128@163.com
+2019-12-20 13:31:51,465 registerView.py[line:66] ERROR register fail
+2019-12-20 13:31:51,466 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 13:33:48,801 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 13:33:54,755 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 13:33:55,525 registerView.py[line:43] INFO ========register_action=========
+2019-12-20 13:33:57,084 registerView.py[line:47] INFO set userhead
+2019-12-20 13:34:01,608 registerView.py[line:52] INFO username is zxw2018fly4227
+2019-12-20 13:34:03,227 registerView.py[line:55] INFO password is zxw20183076
+2019-12-20 13:34:03,808 registerView.py[line:58] INFO email is 51zxw8887@163.com
+2019-12-20 13:34:16,678 registerView.py[line:66] ERROR register fail
+2019-12-20 13:34:16,678 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 13:35:07,526 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 13:35:07,701 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 13:35:08,464 registerView.py[line:43] INFO ========register_action=========
+2019-12-20 13:35:09,778 registerView.py[line:47] INFO set userhead
+2019-12-20 13:35:15,115 registerView.py[line:52] INFO username is zxw2018fly4482
+2019-12-20 13:35:16,793 registerView.py[line:55] INFO password is zxw20188499
+2019-12-20 13:36:32,979 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 13:36:33,608 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 13:36:34,406 registerView.py[line:43] INFO ========register_action=========
+2019-12-20 13:36:35,345 registerView.py[line:47] INFO set userhead
+2019-12-20 13:36:39,587 registerView.py[line:52] INFO username is zxw2018fly3093
+2019-12-20 13:36:41,006 registerView.py[line:55] INFO password is zxw20188817
+2019-12-20 13:36:43,044 registerView.py[line:58] INFO email is 51zxw3895@163.com
+2019-12-20 13:36:53,050 registerView.py[line:66] ERROR register fail
+2019-12-20 13:36:53,050 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 13:43:15,983 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 13:43:16,291 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 13:43:17,066 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 13:43:18,135 registerView.py[line:48] INFO set userhead
+2019-12-20 13:43:22,359 registerView.py[line:53] INFO username is zxw2018fly5336
+2019-12-20 13:43:23,792 registerView.py[line:56] INFO password is zxw20182710
+2019-12-20 13:43:24,955 registerView.py[line:59] INFO email is 51zxw7853@163.com
+2019-12-20 13:43:37,535 registerView.py[line:69] ERROR register fail
+2019-12-20 13:43:37,535 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 13:45:02,063 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 13:45:02,244 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 13:45:03,013 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 13:45:03,959 registerView.py[line:48] INFO set userhead
+2019-12-20 13:45:08,403 registerView.py[line:53] INFO username is zxw2018fly6038
+2019-12-20 13:45:10,213 registerView.py[line:56] INFO password is zxw20183794
+2019-12-20 13:45:11,646 registerView.py[line:59] INFO email is 51zxw1982@163.com
+2019-12-20 13:45:24,740 registerView.py[line:69] ERROR register fail
+2019-12-20 13:45:24,740 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 13:57:11,622 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 13:57:11,840 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 13:57:12,594 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 13:57:13,552 registerView.py[line:48] INFO set userhead
+2019-12-20 13:57:19,085 registerView.py[line:53] INFO username is zxw2018fly2549
+2019-12-20 13:57:20,458 registerView.py[line:56] INFO password is zxw20188213
+2019-12-20 13:57:21,750 registerView.py[line:59] INFO email is 51zxw3418@163.com
+2019-12-20 13:57:34,072 registerView.py[line:69] ERROR register fail
+2019-12-20 13:57:34,073 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 14:04:59,491 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:04:59,815 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:05:00,567 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:05:01,743 registerView.py[line:48] INFO set userhead
+2019-12-20 14:05:06,050 registerView.py[line:53] INFO username is zxw2018fly7271
+2019-12-20 14:05:07,463 registerView.py[line:56] INFO password is zxw20186951
+2019-12-20 14:05:08,741 registerView.py[line:59] INFO email is 51zxw5827@163.com
+2019-12-20 14:05:24,764 registerView.py[line:71] ERROR register fail
+2019-12-20 14:05:24,778 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 14:10:45,408 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:10:45,767 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:10:46,536 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:10:47,487 registerView.py[line:48] INFO set userhead
+2019-12-20 14:10:51,765 registerView.py[line:53] INFO username is zxw2018fly139
+2019-12-20 14:10:53,325 registerView.py[line:56] INFO password is zxw2018422
+2019-12-20 14:10:54,891 registerView.py[line:59] INFO email is 51zxw420@qq.com
+2019-12-20 14:11:10,509 registerView.py[line:71] ERROR register fail
+2019-12-20 14:11:10,509 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 14:17:29,064 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:17:29,281 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:17:30,025 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:17:31,500 registerView.py[line:48] INFO set userhead
+2019-12-20 14:17:35,757 registerView.py[line:53] INFO username is zxw2018fly655
+2019-12-20 14:17:37,120 registerView.py[line:56] INFO password is zxw2018649
+2019-12-20 14:17:38,280 registerView.py[line:59] INFO email is 512019438@qq.com
+2019-12-20 14:17:54,519 registerView.py[line:71] ERROR register fail
+2019-12-20 14:17:54,519 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 14:19:19,253 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:19:20,473 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:19:21,248 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:19:22,293 registerView.py[line:48] INFO set userhead
+2019-12-20 14:19:26,836 registerView.py[line:53] INFO username is zxw2018fly341
+2019-12-20 14:19:28,273 registerView.py[line:56] INFO password is zxw2018880
+2019-12-20 14:19:29,656 registerView.py[line:59] INFO email is 512019529@qq.com
+2019-12-20 14:19:48,062 registerView.py[line:71] ERROR register fail
+2019-12-20 14:19:48,062 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 14:23:07,695 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:23:07,925 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:23:08,703 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:23:09,695 registerView.py[line:48] INFO set userhead
+2019-12-20 14:23:14,624 registerView.py[line:53] INFO username is zxw2018fly753
+2019-12-20 14:23:16,671 registerView.py[line:56] INFO password is zxw2018703
+2019-12-20 14:23:17,805 registerView.py[line:59] INFO email is 512019898@qq.com
+2019-12-20 14:23:34,678 registerView.py[line:70] ERROR register fail
+2019-12-20 14:23:34,678 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 14:25:27,611 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:25:27,877 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:25:28,624 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:25:29,578 registerView.py[line:48] INFO set userhead
+2019-12-20 14:25:34,135 registerView.py[line:53] INFO username is zxw2018fly770
+2019-12-20 14:25:35,562 registerView.py[line:56] INFO password is zxw2018631
+2019-12-20 14:25:36,302 registerView.py[line:59] INFO email is 512019548@qq.com
+2019-12-20 14:25:52,133 registerView.py[line:70] ERROR register fail
+2019-12-20 14:25:52,134 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 14:36:41,670 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:36:41,948 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:36:42,691 loginView.py[line:23] INFO ============login_action==============
+2019-12-20 14:36:42,691 loginView.py[line:24] INFO username is:自学网2018
+2019-12-20 14:36:44,319 loginView.py[line:27] INFO password is:zxw2018
+2019-12-20 14:36:45,379 loginView.py[line:30] INFO click loginBtn
+2019-12-20 14:36:45,929 loginView.py[line:32] INFO login finished!
+2019-12-20 14:36:45,929 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-20 14:36:45,929 common_fun.py[line:57] INFO ====check_market_ad====
+2019-12-20 14:36:55,031 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-20 14:37:04,771 loginView.py[line:41] INFO close tip_commit
+2019-12-20 14:37:16,255 loginView.py[line:53] ERROR login fail
+2019-12-20 14:37:16,255 common_fun.py[line:52] INFO get login fail screenshot
+2019-12-20 14:37:38,768 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:37:38,942 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:37:39,695 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:37:40,637 registerView.py[line:48] INFO set userhead
+2019-12-20 14:37:45,205 registerView.py[line:53] INFO username is zxw2018fly341
+2019-12-20 14:37:46,113 registerView.py[line:56] INFO password is zxw2018235
+2019-12-20 14:37:47,427 registerView.py[line:59] INFO email is 512019854@qq.com
+2019-12-20 14:38:05,538 registerView.py[line:70] ERROR register fail
+2019-12-20 14:38:05,538 common_fun.py[line:52] INFO get register fail screenshot
+2019-12-20 14:39:13,758 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:39:13,956 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:39:14,705 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:39:16,084 registerView.py[line:48] INFO set userhead
+2019-12-20 14:39:22,812 registerView.py[line:53] INFO username is zxw2018fly649
+2019-12-20 14:39:31,591 registerView.py[line:56] INFO password is zxw2018683
+2019-12-20 14:39:35,598 registerView.py[line:59] INFO email is 512019119@qq.com
+2019-12-20 14:42:08,914 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:42:09,202 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:42:09,957 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:42:10,903 registerView.py[line:48] INFO set userhead
+2019-12-20 14:42:16,114 registerView.py[line:53] INFO username is zxw2018fly374
+2019-12-20 14:42:18,122 registerView.py[line:56] INFO password is zxw2018342
+2019-12-20 14:42:19,192 registerView.py[line:59] INFO email is 512019450@qq.com
+2019-12-20 14:46:42,569 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:46:42,742 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:46:43,528 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:46:44,745 registerView.py[line:48] INFO set userhead
+2019-12-20 14:46:49,200 registerView.py[line:53] INFO username is zxw2018fly651
+2019-12-20 14:46:50,615 registerView.py[line:56] INFO password is zxw2018529
+2019-12-20 14:46:51,776 registerView.py[line:59] INFO email is 512019158@qq.com
+2019-12-20 14:55:40,712 common_fun.py[line:14] INFO ==========check_cancelBtn=========
+2019-12-20 14:55:40,957 common_fun.py[line:23] INFO =========check skipBtn=============
+2019-12-20 14:55:41,746 registerView.py[line:44] INFO ========register_action=========
+2019-12-20 14:55:42,624 registerView.py[line:48] INFO set userhead
+2019-12-20 14:55:48,012 registerView.py[line:53] INFO username is zxw2018fly568
+2019-12-20 14:55:50,276 registerView.py[line:56] INFO password is zxw2018675
+2019-12-20 14:55:51,354 registerView.py[line:59] INFO email is 512019657@qq.com
