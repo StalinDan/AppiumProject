@@ -1,0 +1,220 @@
+2019-12-19 15:00:41,154 common_fun.py[line:13] INFO ==========check_cancelBtn=========
+2019-12-19 15:00:49,550 common_fun.py[line:17] INFO no cancelBtn
+2019-12-19 15:00:49,550 common_fun.py[line:37] INFO swipe left
+2019-12-19 15:02:58,281 common_fun.py[line:13] INFO ==========check_cancelBtn=========
+2019-12-19 15:03:06,443 common_fun.py[line:17] INFO no cancelBtn
+2019-12-19 15:03:06,443 common_fun.py[line:37] INFO swipe left
+2019-12-19 15:03:07,744 common_fun.py[line:51] INFO get start App screenshot
+2019-12-23 15:45:56,844 myunit.py[line:8] INFO =====setUp====
+2019-12-23 15:46:27,389 test_register.py[line:9] INFO =====test_user_register=====
+2019-12-23 15:46:27,389 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 15:46:29,164 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 15:46:29,955 registerView.py[line:44] INFO ========register_action=========
+2019-12-23 15:46:31,347 registerView.py[line:48] INFO set userhead
+2019-12-23 15:46:35,997 registerView.py[line:53] INFO username is zxw2018fly877
+2019-12-23 15:46:37,853 registerView.py[line:56] INFO password is zxw2018822
+2019-12-23 15:46:38,933 registerView.py[line:59] INFO email is 512019278@qq.com
+2019-12-23 15:46:55,825 registerView.py[line:70] ERROR register fail
+2019-12-23 15:46:55,828 common_fun.py[line:53] INFO get register fail screenshot
+2019-12-23 15:46:56,369 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 16:01:31,915 myunit.py[line:8] INFO =====setUp====
+2019-12-23 16:01:59,301 test_login.py[line:10] INFO ======test_login_zxw2018=====
+2019-12-23 16:01:59,301 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 16:01:59,320 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 16:02:53,523 myunit.py[line:8] INFO =====setUp====
+2019-12-23 16:03:11,237 test_login.py[line:10] INFO ======test_login_zxw2018=====
+2019-12-23 16:03:11,237 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 16:03:11,238 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 16:03:11,574 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 16:03:12,356 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 16:03:12,356 loginView.py[line:24] INFO username is:自学网2018
+2019-12-23 16:03:13,975 loginView.py[line:27] INFO password is:zxw2018
+2019-12-23 16:03:15,027 loginView.py[line:30] INFO click loginBtn
+2019-12-23 16:03:15,577 loginView.py[line:32] INFO login finished!
+2019-12-23 16:03:15,578 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 16:03:15,578 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 16:03:23,819 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 16:03:32,791 loginView.py[line:57] INFO login success!
+2019-12-23 16:03:32,792 loginView.py[line:63] INFO =====logout_action======
+2019-12-23 16:03:35,836 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 16:04:00,795 myunit.py[line:8] INFO =====setUp====
+2019-12-23 16:04:19,101 test_login.py[line:29] INFO ======test_login_error=====
+2019-12-23 16:04:19,101 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 16:04:19,103 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 16:04:19,343 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 16:04:20,099 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 16:04:20,099 loginView.py[line:24] INFO username is:666
+2019-12-23 16:04:21,616 loginView.py[line:27] INFO password is:222
+2019-12-23 16:04:22,664 loginView.py[line:30] INFO click loginBtn
+2019-12-23 16:04:23,211 loginView.py[line:32] INFO login finished!
+2019-12-23 16:04:23,211 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 16:04:23,211 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 16:04:31,538 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 16:04:42,189 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 16:58:12,404 run.py[line:15] INFO start run test case...
+2019-12-23 16:58:12,405 myunit.py[line:8] INFO =====setUp====
+2019-12-23 16:58:12,472 myunit.py[line:8] INFO =====setUp====
+2019-12-23 16:58:41,476 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2019-12-23 16:58:41,476 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 16:58:41,491 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 16:58:46,613 myunit.py[line:8] INFO =====setUp====
+2019-12-23 16:59:04,333 test_login.py[line:11] INFO ======test_login_zxw2018=====
+2019-12-23 16:59:04,333 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 16:59:04,333 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 17:00:26,047 run.py[line:15] INFO start run test case...
+2019-12-23 17:00:26,048 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:00:26,098 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:00:54,047 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2019-12-23 17:00:54,047 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 17:00:54,062 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 17:01:00,084 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:01:18,418 test_login.py[line:11] INFO ======test_login_zxw2018=====
+2019-12-23 17:01:18,418 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 17:01:18,452 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 17:05:09,727 run.py[line:15] INFO start run test case...
+2019-12-23 17:05:09,727 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:06:18,332 test_login.py[line:29] INFO ======test_login_error=====
+2019-12-23 17:06:18,332 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 17:06:18,405 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 17:06:19,325 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 17:06:20,099 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 17:06:20,100 loginView.py[line:24] INFO username is:666
+2019-12-23 17:06:22,192 loginView.py[line:27] INFO password is:222
+2019-12-23 17:06:23,008 loginView.py[line:30] INFO click loginBtn
+2019-12-23 17:06:24,271 loginView.py[line:32] INFO login finished!
+2019-12-23 17:06:24,271 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 17:06:24,271 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 17:06:32,987 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 17:06:49,390 loginView.py[line:53] ERROR login fail
+2019-12-23 17:06:49,390 common_fun.py[line:53] INFO get login fail screenshot
+2019-12-23 17:06:49,919 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 17:06:55,882 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:07:14,058 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2019-12-23 17:07:14,058 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 17:07:14,059 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 17:07:14,339 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 17:07:15,112 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 17:07:15,112 loginView.py[line:24] INFO username is:自学网2017
+2019-12-23 17:07:16,591 loginView.py[line:27] INFO password is:zxw2017
+2019-12-23 17:07:17,648 loginView.py[line:30] INFO click loginBtn
+2019-12-23 17:07:18,192 loginView.py[line:32] INFO login finished!
+2019-12-23 17:07:18,192 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 17:07:18,192 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 17:07:26,287 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 17:07:35,439 loginView.py[line:57] INFO login success!
+2019-12-23 17:07:35,439 loginView.py[line:63] INFO =====logout_action======
+2019-12-23 17:07:38,488 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 17:07:43,583 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:08:01,725 test_login.py[line:11] INFO ======test_login_zxw2018=====
+2019-12-23 17:08:01,725 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 17:08:01,726 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 17:08:02,056 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 17:08:02,797 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 17:08:02,797 loginView.py[line:24] INFO username is:自学网2018
+2019-12-23 17:08:04,182 loginView.py[line:27] INFO password is:zxw2018
+2019-12-23 17:08:05,307 loginView.py[line:30] INFO click loginBtn
+2019-12-23 17:08:05,864 loginView.py[line:32] INFO login finished!
+2019-12-23 17:08:05,864 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 17:08:05,864 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 17:08:14,434 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 17:08:23,145 loginView.py[line:57] INFO login success!
+2019-12-23 17:08:23,146 loginView.py[line:63] INFO =====logout_action======
+2019-12-23 17:08:27,048 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 17:30:16,268 run.py[line:15] INFO start run test case...
+2019-12-23 17:30:16,269 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:31:01,239 test_login.py[line:29] INFO ======test_login_error=====
+2019-12-23 17:31:01,239 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 17:31:01,258 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 17:31:01,797 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 17:31:04,801 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 17:31:04,802 loginView.py[line:24] INFO username is:666
+2019-12-23 17:31:06,402 loginView.py[line:27] INFO password is:222
+2019-12-23 17:31:08,149 loginView.py[line:30] INFO click loginBtn
+2019-12-23 17:31:09,328 loginView.py[line:32] INFO login finished!
+2019-12-23 17:31:09,328 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 17:31:09,328 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 17:31:17,724 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 17:31:34,183 loginView.py[line:53] ERROR login fail
+2019-12-23 17:31:34,183 common_fun.py[line:53] INFO get login fail screenshot
+2019-12-23 17:31:34,701 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 17:31:39,834 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:31:58,023 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2019-12-23 17:31:58,023 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 17:31:58,023 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 17:31:58,241 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 17:31:59,026 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 17:31:59,026 loginView.py[line:24] INFO username is:自学网2017
+2019-12-23 17:32:00,600 loginView.py[line:27] INFO password is:zxw2017
+2019-12-23 17:32:02,231 loginView.py[line:30] INFO click loginBtn
+2019-12-23 17:32:02,779 loginView.py[line:32] INFO login finished!
+2019-12-23 17:32:02,779 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 17:32:02,779 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 17:32:10,866 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 17:32:19,800 loginView.py[line:57] INFO login success!
+2019-12-23 17:32:19,800 loginView.py[line:63] INFO =====logout_action======
+2019-12-23 17:32:22,967 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 17:32:27,973 myunit.py[line:8] INFO =====setUp====
+2019-12-23 17:32:44,669 test_login.py[line:11] INFO ======test_login_zxw2018=====
+2019-12-23 17:32:44,669 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 17:32:44,670 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 17:32:44,829 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 17:32:45,584 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 17:32:45,584 loginView.py[line:24] INFO username is:自学网2018
+2019-12-23 17:32:47,295 loginView.py[line:27] INFO password is:zxw2018
+2019-12-23 17:32:48,352 loginView.py[line:30] INFO click loginBtn
+2019-12-23 17:32:49,335 loginView.py[line:32] INFO login finished!
+2019-12-23 17:32:49,335 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 17:32:49,335 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 17:32:57,458 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 17:33:06,376 loginView.py[line:57] INFO login success!
+2019-12-23 17:33:06,376 loginView.py[line:63] INFO =====logout_action======
+2019-12-23 17:33:09,864 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 18:00:15,705 run.py[line:15] INFO start run test case...
+2019-12-23 18:00:15,705 myunit.py[line:8] INFO =====setUp====
+2019-12-23 18:00:46,438 test_login.py[line:29] INFO ======test_login_error=====
+2019-12-23 18:00:46,438 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 18:00:46,468 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 18:00:46,616 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 18:00:47,391 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 18:00:47,391 loginView.py[line:24] INFO username is:666
+2019-12-23 18:00:48,951 loginView.py[line:27] INFO password is:222
+2019-12-23 18:00:50,004 loginView.py[line:30] INFO click loginBtn
+2019-12-23 18:00:50,565 loginView.py[line:32] INFO login finished!
+2019-12-23 18:00:50,565 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 18:00:50,565 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 18:00:58,847 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 18:01:15,506 loginView.py[line:53] ERROR login fail
+2019-12-23 18:01:15,506 common_fun.py[line:53] INFO get login fail screenshot
+2019-12-23 18:01:16,018 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 18:01:21,994 myunit.py[line:8] INFO =====setUp====
+2019-12-23 18:01:49,127 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2019-12-23 18:01:49,127 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 18:01:49,127 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 18:01:49,337 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 18:01:50,105 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 18:01:50,105 loginView.py[line:24] INFO username is:自学网2017
+2019-12-23 18:01:51,742 loginView.py[line:27] INFO password is:zxw2017
+2019-12-23 18:01:52,798 loginView.py[line:30] INFO click loginBtn
+2019-12-23 18:01:53,343 loginView.py[line:32] INFO login finished!
+2019-12-23 18:01:53,343 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 18:01:53,343 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 18:02:01,348 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 18:02:10,652 loginView.py[line:57] INFO login success!
+2019-12-23 18:02:10,652 loginView.py[line:63] INFO =====logout_action======
+2019-12-23 18:02:13,222 myunit.py[line:12] INFO ====tearDown====
+2019-12-23 18:02:19,178 myunit.py[line:8] INFO =====setUp====
+2019-12-23 18:02:44,665 test_login.py[line:11] INFO ======test_login_zxw2018=====
+2019-12-23 18:02:44,665 common_fun.py[line:68] INFO ====get_csv_data====
+2019-12-23 18:02:44,666 common_fun.py[line:15] INFO ==========check_cancelBtn=========
+2019-12-23 18:02:44,873 common_fun.py[line:24] INFO =========check skipBtn=============
+2019-12-23 18:02:45,620 loginView.py[line:23] INFO ============login_action==============
+2019-12-23 18:02:45,621 loginView.py[line:24] INFO username is:自学网2018
+2019-12-23 18:02:46,632 loginView.py[line:27] INFO password is:zxw2018
+2019-12-23 18:02:47,756 loginView.py[line:30] INFO click loginBtn
+2019-12-23 18:02:50,033 loginView.py[line:32] INFO login finished!
+2019-12-23 18:02:50,033 loginView.py[line:45] INFO ====check_loginStatus======
+2019-12-23 18:02:50,033 common_fun.py[line:58] INFO ====check_market_ad====
+2019-12-23 18:02:58,751 loginView.py[line:35] INFO =====check_account_alert====
+2019-12-23 18:03:07,255 loginView.py[line:57] INFO login success!
+2019-12-23 18:03:07,255 loginView.py[line:63] INFO =====logout_action======
+2019-12-23 18:03:10,306 myunit.py[line:12] INFO ====tearDown====
